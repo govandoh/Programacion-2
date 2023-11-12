@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\bin\Debug\9490_21_7_Parcial2.exe.config
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\bin\Debug\9490_21_7_Parcial2.exe
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\bin\Debug\9490_21_7_Parcial2.pdb
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\obj\Debug\9490_21_7_Parcial2.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\obj\Debug\9490_21_7_Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\obj\Debug\9490_21_7_Parcial2.exe
+C:\Users\govan\source\repos\9490_21_7_Parcial2\9490_21_7_Parcial2\obj\Debug\9490_21_7_Parcial2.pdb
