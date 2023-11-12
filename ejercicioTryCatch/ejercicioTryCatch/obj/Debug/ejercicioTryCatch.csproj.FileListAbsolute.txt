@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\bin\Debug\ejercicioTryCatch.exe.config
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\bin\Debug\ejercicioTryCatch.exe
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\bin\Debug\ejercicioTryCatch.pdb
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\obj\Debug\ejercicioTryCatch.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\obj\Debug\ejercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\obj\Debug\ejercicioTryCatch.exe
+C:\Users\govan\source\repos\ejercicioTryCatch\ejercicioTryCatch\obj\Debug\ejercicioTryCatch.pdb
