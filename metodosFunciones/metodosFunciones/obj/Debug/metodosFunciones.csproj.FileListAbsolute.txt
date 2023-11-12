@@ -1,0 +1,8 @@
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\bin\Debug\metodosFunciones.exe.config
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\bin\Debug\metodosFunciones.exe
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\bin\Debug\metodosFunciones.pdb
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\obj\Debug\metodosFunciones.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\obj\Debug\metodosFunciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\obj\Debug\metodosFunciones.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\obj\Debug\metodosFunciones.exe
+C:\Users\govan\source\repos\metodosFunciones\metodosFunciones\obj\Debug\metodosFunciones.pdb
