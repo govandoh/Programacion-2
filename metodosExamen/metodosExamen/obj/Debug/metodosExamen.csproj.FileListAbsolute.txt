@@ -1,0 +1,8 @@
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\obj\Debug\metodosExamen.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\obj\Debug\metodosExamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\obj\Debug\metodosExamen.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\bin\Debug\metodosExamen.exe.config
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\bin\Debug\metodosExamen.exe
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\bin\Debug\metodosExamen.pdb
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\obj\Debug\metodosExamen.exe
+C:\Users\govan\source\repos\metodosExamen\metodosExamen\obj\Debug\metodosExamen.pdb
