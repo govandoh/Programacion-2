@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\obj\Debug\Laboratorio10_07.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\obj\Debug\Laboratorio10_07.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\bin\Debug\Laboratorio10_07.exe.config
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\bin\Debug\Laboratorio10_07.exe
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\bin\Debug\Laboratorio10_07.pdb
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\obj\Debug\Laboratorio10_07.exe
+C:\Users\govan\source\repos\Laboratorio10_07\Laboratorio10_07\obj\Debug\Laboratorio10_07.pdb

@@ -1,0 +1,15 @@
+Juego
+ X O X 
+ O X O 
+ X - - 
+
+Juego
+ O X X 
+ X O O 
+ O X X 
+
+Juego
+ O X O 
+ X O X 
+ O - - 
+
