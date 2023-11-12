@@ -1,0 +1,8 @@
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\bin\Release\EstructurasControl.exe.config
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\bin\Release\EstructurasControl.exe
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\bin\Release\EstructurasControl.pdb
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\obj\Release\EstructurasControl.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\obj\Release\EstructurasControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\obj\Release\EstructurasControl.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\obj\Release\EstructurasControl.exe
+C:\Users\govan\source\repos\EstructurasControl\EstructurasControl\obj\Release\EstructurasControl.pdb
