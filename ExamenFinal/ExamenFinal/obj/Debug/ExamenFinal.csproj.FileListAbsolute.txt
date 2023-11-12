@@ -1,0 +1,10 @@
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Form1.resources
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Properties.Resources.resources
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.GenerateResource.cache
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+C:\Users\govan\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
