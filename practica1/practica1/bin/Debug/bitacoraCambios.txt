@@ -1,0 +1,45 @@
+Detalle: Se guardó un nuevo registro, Código:  002, Nombre: Gerardo 
+Detalle: Se guardó un nuevo registro, Código: 003, Nombre:Gerardo 
+Detalle: Actualización del registro Codigo:003 nuevos datos:Gerardo,Perez,3500
+Detalle: Insersión del registro, Código:004, Nombre:Maria,Apellido:Luisa,Sueldo2500
+Detalle: Insersión del registro, Código:005, Nombre:Magali,Apellido:Garcia,Sueldo:4500
+Detalle: Insersión del registro, Código:006, Nombre:Mario,Apellido:Perez,Sueldo:450
+Detalle: Insersión del registro, Código:007, Nombre:Marco,Apellido:Balloteli,Sueldo:2500
+Detalle: Insersión del registro, Código:008, Nombre:Mario,Apellido:Balloteli,Sueldo:2400
+Detalle: Insersión del registro, Código:009, Nombre:test,Apellido:test,Sueldo:4500
+Detalle: Insersión del registro, Código:010, Nombre:prueba,Apellido:prueba,Sueldo:5
+Detalle: Insersión del registro, Código:011, Nombre:test,Apellido:test,Sueldo:2450
+Detalle: Se eliminó el registro, Codigo:011
+Detalle: Se eliminó el registro, Codigo:010
+Detalle: Se eliminó el registro, Codigo:009
+Detalle: Se eliminó el registro, Codigo:008
+Detalle: Se eliminó el registro, Codigo:007
+Detalle: Se eliminó el registro, Codigo:006
+Detalle: Insersión del registro, Código:006, Nombre:Mario,Apellido:Test,Sueldo:4552
+Detalle: Actualización del registro Codigo:006 Cambios:Mario,Perez,4552
+Detalle: Insersión del registro, Código:007, Nombre:Lucas,Apellido:TT,Sueldo:450
+Detalle: Insersión del registro, Código:008, Nombre:TEA,Apellido:TEA,Sueldo:4502
+Detalle: Insersión del registro, Código:001, Nombre:Mario,Apellido:Toro,Sueldo:4500
+Detalle: Se eliminó el registro, Codigo:001
+Detalle: Se eliminó el registro, Codigo:008
+Detalle: Actualización del registro Codigo:007 Cambios:Lucas,ooo,450
+Detalle: Se eliminó el registro, Codigo:007
+Detalle: Se eliminó el registro, Codigo:006
+Detalle: Insersión del registro, Código:006, Nombre:test,Apellido:test,Sueldo:5250
+Detalle: Se eliminó el registro, Codigo:006
+Detalle: Insersión del registro, Código:006, Nombre:tt,Apellido:tt,Sueldo:2500
+Detalle: Actualización del registro Codigo:006 Cambios:prueba,tt,2500
+Detalle: Se eliminó el registro, Codigo:004
+Detalle: Actualización del registro Codigo:006 Cambios:Mario,Prueba,2500
+Detalle: Actualización del registro Codigo:006 Cambios:Mario,Lopez,2500
+Detalle: Actualización del registro Codigo:006 Cambios:Mario,Test,2500
+Detalle: Actualización del registro Codigo:006 Cambios:Mario,Test,2500
+Detalle: Actualización del registro Codigo:002 Cambios:Gerardo,Ovando,2500
+Detalle: Actualización del registro Codigo:005 Cambios:Magali,Garcia Soto,4500
+Detalle: Actualización del registro Codigo:005 Cambios:Magali,Garcia,4500
+Detalle: Insersión del registro, Código:007, Nombre:test,Apellido:test,Sueldo:4500
+Detalle: Insersión del registro, Código:008, Nombre:Luis,Apellido:Hernandez,Sueldo:4500
+Detalle: Se eliminó el registro, Codigo:008
+Detalle: Actualización del registro Codigo:007 Cambios:test,perez,4500
+Detalle: Se eliminó el registro, Codigo:007
+Detalle: Se eliminó el registro, Codigo:006,11/11/2023 8:26:41 AM

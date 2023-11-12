@@ -1,0 +1,11 @@
+C:\Users\govan\source\repos\practica1\practica1\bin\Debug\practica1.exe.config
+C:\Users\govan\source\repos\practica1\practica1\bin\Debug\practica1.exe
+C:\Users\govan\source\repos\practica1\practica1\bin\Debug\practica1.pdb
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.Form1.resources
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.Properties.Resources.resources
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.csproj.GenerateResource.cache
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.exe
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.pdb
+C:\Users\govan\source\repos\practica1\practica1\obj\Debug\practica1.Bitacora.resources
