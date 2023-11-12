@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe.config
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\bin\Debug\juegoTotito.pdb
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\obj\Debug\juegoTotito.exe
+C:\Users\govan\source\repos\juegoTotito\juegoTotito\obj\Debug\juegoTotito.pdb
