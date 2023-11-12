@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\bin\Debug\tareaSecuenciales.exe.config
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\bin\Debug\tareaSecuenciales.exe
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\bin\Debug\tareaSecuenciales.pdb
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\obj\Debug\tareaSecuenciales.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\obj\Debug\tareaSecuenciales.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\obj\Debug\tareaSecuenciales.exe
+C:\Users\govan\source\repos\tareaSecuenciales\tareaSecuenciales\obj\Debug\tareaSecuenciales.pdb
