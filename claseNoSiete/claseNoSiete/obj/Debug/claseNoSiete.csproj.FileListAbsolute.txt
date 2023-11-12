@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\bin\Debug\claseNoSiete.exe.config
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\bin\Debug\claseNoSiete.exe
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\bin\Debug\claseNoSiete.pdb
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\obj\Debug\claseNoSiete.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\obj\Debug\claseNoSiete.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\obj\Debug\claseNoSiete.exe
+C:\Users\govan\source\repos\claseNoSiete\claseNoSiete\obj\Debug\claseNoSiete.pdb
