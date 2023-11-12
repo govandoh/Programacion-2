@@ -1,0 +1,7 @@
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\bin\Debug\ejemplosSecuenciales.exe.config
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\bin\Debug\ejemplosSecuenciales.exe
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\bin\Debug\ejemplosSecuenciales.pdb
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\obj\Debug\ejemplosSecuenciales.csproj.AssemblyReference.cache
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\obj\Debug\ejemplosSecuenciales.csproj.CoreCompileInputs.cache
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\obj\Debug\ejemplosSecuenciales.exe
+C:\Users\govan\source\repos\ejemplosSecuenciales\ejemplosSecuenciales\obj\Debug\ejemplosSecuenciales.pdb
